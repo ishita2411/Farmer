@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508778253383",
+    "firebase_url": "https://kisan-sanyogan.firebaseio.com",
+    "project_id": "kisan-sanyogan",
+    "storage_bucket": "kisan-sanyogan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508778253383:android:9d022f75f9c595516ef562",
+        "android_client_info": {
+          "package_name": "com.example.farmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508778253383-394mosfmsm3vu08e80k1g3b75n3e2a54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb-mc8YUePa58w4rn0rnCk9tHR_JBbMN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508778253383-394mosfmsm3vu08e80k1g3b75n3e2a54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

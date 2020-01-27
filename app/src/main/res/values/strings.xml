@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Farmer</string>
+    <string name="name">Name</string>
+    <string name="district">District</string>
+    <string name="mandal">Mandal</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="submit">Submit</string>
+    <string-array name="vehicle_types">
+        <item>Truck</item>
+        <item>DCM</item>
+        <item>TATA ACE</item>
+    </string-array>
+
+</resources>
